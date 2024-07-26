@@ -1,0 +1,29 @@
+.btns-style {
+    background: var(--color-primary);
+    color:var(--color-light) ;
+    border:none;
+    outline: none;
+    border-radius: 40px;
+    padding:10px 30px ;
+    transition: ease 0.4s;
+    font-weight: 500;
+    font-size: 17px;
+
+}
+
+
+
+.btns-style:hover {
+    background: var(--color-light);
+    color:var(--color-primary);
+
+}
+
+
+.secondary-btn {
+    border-radius: 40px;
+    padding:10px 30px;
+    border:2px solid gray;
+    background-color: var(--color-darkest);
+    color:gray;
+}

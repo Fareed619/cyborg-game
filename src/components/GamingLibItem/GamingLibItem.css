@@ -1,0 +1,24 @@
+.item-gaming-lib {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom:30px;
+    flex-wrap: wrap;
+}
+ul li{
+    margin-top: 10px;
+    
+}
+
+.bottom-line {
+    color:gray;
+    font-size: 15px;
+}
+
+.btn-down {
+    border-radius: 40px;
+    padding:10px 30px;
+    border:2px solid gray;
+    background-color: var(--color-darkest);
+    color:gray;
+}
